@@ -1,5 +1,5 @@
 
-<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Bem%20Vindo(a)!&fontAlign=50&fontAlignY=40&fontSize=40&desc=Eduardo%20Queiros&descAlign=50&descAlignY=55" />
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Bem%20Vindo(a)!" />
 
 <h1 align="center">
   Olá, meu nome é Eduardo Queiros! 
