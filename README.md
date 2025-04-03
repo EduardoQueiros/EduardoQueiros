@@ -14,7 +14,7 @@
 
 ## Sobre mim
 
-- 🔭 Atualmente, estou estudando **COBOL**.
+
 - ⚙️ Possuo conhecimentos em:
   - <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" height="25"/>
   - <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" height="25"/>
